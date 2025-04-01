@@ -8,7 +8,7 @@ This project using sample API's from  openweathermap
 (https://api.openweathermap.org/data/2.5/forecast)
 
 ## Run Application
-1.The IDE is xcode 12.5 macOS Big Sur
+1.The IDE is xcode 16 Mac OS 15.0
 
 Run and Build the App:
 
