@@ -1,0 +1,34 @@
+PODS:
+  - JGProgressHUD (2.2)
+  - PromiseKit (8.2.0):
+    - PromiseKit/CorePromise (= 8.2.0)
+    - PromiseKit/Foundation (= 8.2.0)
+    - PromiseKit/UIKit (= 8.2.0)
+  - PromiseKit/CoreLocation (8.2.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (8.2.0)
+  - PromiseKit/Foundation (8.2.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/MapKit (8.2.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (8.2.0):
+    - PromiseKit/CorePromise
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - PromiseKit (~> 8)
+  - PromiseKit/CoreLocation
+  - PromiseKit/MapKit
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - PromiseKit
+
+SPEC CHECKSUMS:
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  PromiseKit: 74e6ab5894856b4762fef547055c809bca91d440
+
+PODFILE CHECKSUM: fad58e458900d0cf70ef1eb5d33541c2e035dbf3
+
+COCOAPODS: 1.16.2
